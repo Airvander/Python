@@ -15,5 +15,5 @@ print("network" + " " + "security") ## + is used to concatenate two strings --- 
 a = "cat"
 b = "dog"
 print(a + " " + b) #method one
-print(f"{a} {b}") #method two
-print("{} {}".format(a, b)) #method third --- little advanced 
+print(f"{a} {b}") #method two --- f-string
+print(f"The first animal is {a} and the second animal is {b}") #method third --- long f-string with display of the first and second animal
