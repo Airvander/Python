@@ -1,0 +1,15 @@
+input 
+common test, assignment, continuous assessment
+
+process
+calculate final mark 30/100 x ct + 30/100 x assignment + 40/100 x ca
+
+output
+Final mark to Display 
+
+Pseudocode 
+1 6O to CT 
+2 80 to assignment
+3 75 to CA
+4 Calculate Final Mark = (CT x (30/100)) + (Assignment x (30/100)) + (CA x (40/100)) 
+5 Final mark to Display / print('your final mark ' + str(total))

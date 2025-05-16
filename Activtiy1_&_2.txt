@@ -1,0 +1,18 @@
+intput 
+prompt monthly income
+monthly salary x 12
+prompt bonus
+
+process 
+calculate of annual income = (monthly salary * 12) + bonus
+
+output
+display annual income
+
+pseudocode 
+1 prompt monthly salary
+2 get salary
+3 prompt bonus
+5 get bonus
+6 calculate annual income = (monthly salary * 12) + bonus
+7 display annual income

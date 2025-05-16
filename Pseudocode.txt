@@ -1,0 +1,6 @@
+Pseudocode for activity 3
+1 60 to CT 
+2 80 to assignment
+3 75 to CA
+4 Calculate Final Mark = (CT x (30/100)) + (Assignment x (30/100)) + (CA x (40/100)) 
+5 Final mark to Display / print('your final mark ' + str(total))

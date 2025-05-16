@@ -1,0 +1,5 @@
+print('Hip Hip Hurray',end =' ')
+print('Hip Hip Hurray')
+print('Welcome to ICT')
+print('Welcome to ICT')
+print('Welcome to ICT')

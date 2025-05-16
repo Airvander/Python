@@ -1,0 +1,11 @@
+AND true and false
+
+t and t = t
+f and .... = f
+
+or 
+f or f = f
+t or f = t
+
+string = height = input('.....")
+float = height = float(height);

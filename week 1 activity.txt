@@ -1,0 +1,23 @@
+Activity 2
+input: 
+Price of item, gst percent
+
+process:
+calculate total cost of irem
+price of item x (1 + gst / 100)
+
+output
+price of item to display
+
+1.2 assign 
+
+Activity 3
+
+input 
+common test, assignment, continuous assessment
+
+process
+Calculate Final Mark = (CT x (30/100)) + (Assignment x (30/100)) + (CA x (40/100)) 
+
+output
+Final mark to Display 
